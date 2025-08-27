@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2f2f2;
-    color: #333333;
+    color: #333333fb;
 }
 
 header {
-    background-color: #99004d;
+    background-color: #990000;
     color: white;
     padding: 20px;
     text-align: center;
